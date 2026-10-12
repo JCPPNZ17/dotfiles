@@ -60,3 +60,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = jacopo.panza@gmail.com
+	name = jacopo panza
